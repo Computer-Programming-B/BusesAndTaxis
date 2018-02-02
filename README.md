@@ -15,4 +15,4 @@ Suggusted Steps to complete this assignment:
 Your output should look something like this:   
 ![Buses and Taxis screenshot](BusesAndTaxis.png)
 
-Note: It is possible to write this program using only what we have learned in Python so far. It is not necessary to use `ceil` or `if`, whatever those are.
+Note: It is possible to write this program using only what we have learned in Python so far. It is not necessary to use `ceil` or `if`, whatever those are. If you want to use an `if` statement however, you may find slides 149 - 154 of the PythonProcessing.pptx PowerPoint slides helpful.
