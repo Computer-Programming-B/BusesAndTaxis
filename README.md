@@ -7,7 +7,7 @@ Your program will calculate the minimum number of buses and taxis that would be 
 
 Suggusted Steps to complete this assignment:
  
-1. Start a new Python 3 program in repl.it. 
+1. Start a new Python 3 program. 
 2. Create a list with the following numbers: 1,49,50,51,56,199,200,201,202,203,204,205,206
 3. Write a for each loop that traverses the list and prints each number
 4. Now add three variables to the loop that store the number of buses, the number of people left over who need taxis and the number of taxis: `buses`, `taxiPeople` and `taxis`
