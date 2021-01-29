@@ -11,8 +11,8 @@ Suggusted Steps to complete this assignment:
 2. Create a list with the following numbers: 1,49,50,51,56,199,200,201,202,203,204,205,206
 3. Write a for each loop that traverses the list and prints each number
 4. Now add three variables to the loop that store the number of buses, the number of people left over who need taxis and the number of taxis: `buses`, `taxiPeople` and `taxis`
-5. Write some expressions to do the calculations for `buses`, `taxiPeople` and `taxis`. You will only need to use addition, integer ("floor") division and modulus.
+5. Write some expressions to do the calculations for `buses`, `taxiPeople` and `taxis`.
 Your output should look something like this:   
 ![Buses and Taxis screenshot](BusesAndTaxis.png)
 
-Note: It is possible to write this program using only what we have learned in Python so far. It is not necessary to use `ceil` or `if`, whatever those are.
+Note: It is possible to write this program using only addition, integer ("floor") division and modulus. It is not necessary to use an `if`, though you can use one if you want to.
